@@ -1,2 +1,2 @@
-prinnt('hello')
+print('hello')
 print('rahul')
